@@ -259,7 +259,7 @@ Projeto pessoal - Use livremente como base para seu portfólio!
 ## 👨‍💻 Autor
 
 **Glauckyon Rocha**
-- 📧 Email: glauckyon@email.com
+- 📧 Email: glauckyonrocha20@gmail.com
 - 🐙 GitHub: [github.com/Devglawkkj](https://github.com/Devglawkkj)
 - 💼 LinkedIn: [linkedin.com/in/glauckyon-rocha-0b055b277](https://www.linkedin.com/in/glauckyon-rocha-0b055b277)
 - 📸 Instagram: [instagram.com/glawkkj](https://www.instagram.com/glawkkj/)
