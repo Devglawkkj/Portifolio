@@ -1,4 +1,4 @@
-# 💙 Portfólio - Glauckyon Rocha
+# Portfólio - Glauckyon Rocha
 
 Um portfólio moderno, responsivo e **altamente modularizado** desenvolvido com **HTML5**, **Tailwind CSS** e **JavaScript ES6 Modular**.
 
