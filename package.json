@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-glauckyon",
+  "version": "1.0.0",
+  "description": "Portfólio de Glauckyon Rocha - Desenvolvedor Full Stack",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "full-stack",
+    "frontend",
+    "backend"
+  ],
+  "author": "Glauckyon Rocha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glauckyon/portfolio"
+  }
+}
